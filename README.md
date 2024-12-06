@@ -13,6 +13,8 @@ This repository contains a collection of Jupyter notebooks focused on various as
 - [YOLO](#yolo)
 - [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
 - [Face Detection](#face-detection)
+- [Semantic Segmentation](#semantic-segmentation)
+- [Video Tracking](#video-tracking)
 
 ## Intro to Computer Vision
 
@@ -87,6 +89,21 @@ This notebook focuses on techniques for detecting faces in images:
 
 - **Viola-Jones**: A popular algorithm for face detection.
 - **Deep Learning Approaches**: Modern techniques for face detection using deep learning.
+
+
+## Semantic Segmentation
+
+This notebook covers semantic segmentation using two models:
+
+- **FCN**: Fully Convolutional Network with ResNet101 as a backbone
+- **Deelabv3**:  SOTA model from google 
+
+## Video Tracking
+
+This notebook covers object trackign in video:
+- **Tracking single object**: using Opencv based functions
+2. **Tracking multiple objects**: via SSD
+
 
 ## Conclusion
 
